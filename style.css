@@ -1,8 +1,20 @@
 header {
     font-family: calibri;
+    border: solid;
+}
+
+h1 {
+    border: solid;
+    grid-column-start: 2;
+    grid-column-end: ;
 }
 
 body {
-    display: grid;
-    background
+    background-color: #212121;
 }
+
+main {
+    display: grid;
+    grid-template: 20% 20% 20% 20% 20% / 15% auto 15%;
+}
+
