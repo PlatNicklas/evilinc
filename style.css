@@ -87,6 +87,7 @@ a {
 
 .homePic {
   width: 30%;
+  height: 40%;
   color: var(--white-default);
   box-shadow: 0.5rem 0.2rem 10px var(--black);
 }
